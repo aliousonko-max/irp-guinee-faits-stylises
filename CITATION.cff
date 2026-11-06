@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce code, merci de citer l'article associé."
+title: "IRP mono-véhicule et faits stylisés de la distribution de carburant en Guinée"
+license: MIT
+authors:
+  - family-names: Maomou
+    given-names: Moana
+    affiliation: "Université Gamal Abdel Nasser de Conakry"
+  - family-names: Touré
+    given-names: Binko Mamady
+    affiliation: "Université Gamal Abdel Nasser de Conakry"
+  - family-names: Mansaré
+    given-names: Baba
+    affiliation: "Université Gamal Abdel Nasser de Conakry"
+  - family-names: Sonko
+    given-names: Aliou
+    affiliation: "Université de N'Zérékoré"
+    orcid: "https://orcid.org/0009-0009-2784-4231"
